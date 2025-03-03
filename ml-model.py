@@ -27,3 +27,4 @@ print(f"Accuracy: {accuracy_score(y_test, y_pred)}")
 # Save the trained model
 joblib.dump(clf, 'iris_model.pkl')
 print("Model saved!")
+
