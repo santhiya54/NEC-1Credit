@@ -1,6 +1,6 @@
 1 Commit the code in the respective files
 
-![Screenshot 2025-02-23 143804](https://github.com/user-attachments/assets/9a673aa2-4ac4-486f-affb-92fd3e270955)
+![Screenshot 2025-02-23 143804](https://github.com/user-attachments/assets/71344fde-3743-4764-bd6a-e5999b2d7026)
 
 2 Screenshots and commands that you used to build the docker image. Pls note the image name should be Reg-Number-personal-api(Example: 1214214-personal-api)
 
