@@ -31,7 +31,7 @@ OUTPUT:
 ![Screenshot 2025-03-03 200954](https://github.com/user-attachments/assets/817144e0-66a5-40c3-881d-ceb6f7286a9b)
 ![Screenshot 2025-03-03 201017](https://github.com/user-attachments/assets/d8dabed7-f8a5-4909-9ec8-ad209a831fbe)
 
-OUTPUT FOR MY FRIEND:
+OUTPUT OF MY FRIEND:
 ![Screenshot 2025-03-03 201338](https://github.com/user-attachments/assets/a3b884bb-78fc-4dd3-99fd-ecf5afe1b6c2)
 ![Screenshot 2025-03-03 201358](https://github.com/user-attachments/assets/8001e43d-20d3-434f-98a7-2d9e64c84522)
 
