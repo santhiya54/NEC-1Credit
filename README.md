@@ -22,8 +22,10 @@ OUTPUT:
 
 Step 1:compose.yml code
 ![Screenshot 2025-03-03 193627](https://github.com/user-attachments/assets/a1f4920d-1706-4e0f-b9c9-63499aa545b5)
-step 2:docker compose
+Step 2:docker compose
 ![Screenshot 2025-03-03 200758](https://github.com/user-attachments/assets/524bd183-8a1d-4235-9e33-5e2092a3943b)
+Step 3:container in docker
+![image](https://github.com/user-attachments/assets/abd8a933-7313-4d07-a55f-006d2f0b20cd)
 
 OUTPUT:
 ![Screenshot 2025-03-03 200954](https://github.com/user-attachments/assets/817144e0-66a5-40c3-881d-ceb6f7286a9b)
