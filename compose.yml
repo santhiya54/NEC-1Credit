@@ -1,1 +1,18 @@
-Update this file to add the content
+version: '3.8'
+
+services:
+  santhiya:
+    image: santhiya55/personal-api:latest 
+    container_name: santhiya55-container
+    ports:
+      - "5005:5000"  
+    restart: always
+
+  varunapriyas:
+    image: varunapriyas/personal-api:latest
+    container_name: varunapriyas-container
+    ports:
+      - "5003:5000"  
+    restart: always
+
+  
