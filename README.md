@@ -8,9 +8,7 @@ Step 1:personal-api.py
 ![Screenshot 2025-03-03 191901](https://github.com/user-attachments/assets/4839665f-c55b-4e70-95bc-47e05b851ce0)
 Step 2:docker build -t personal-api .
 ![Screenshot 2025-03-03 192057](https://github.com/user-attachments/assets/0e7b2188-3a41-4aa4-ad9a-01bfb6b79058)
-Step 3:1.docker run -d -p 5000:5000 personal-api 2.docker ps 3.docker images
-![Screenshot 2025-03-03 193143](https://github.com/user-attachments/assets/e0120bc2-198a-47d2-8c69-2e57abf5aab5)
-Step 4:docker push
+Step 3:docker push and docker images
 ![Screenshot 2025-03-03 195947](https://github.com/user-attachments/assets/a59f9563-3a53-4d94-b047-8f3f2a8a6955)
 
 OUTPUT:
